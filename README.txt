@@ -6,7 +6,7 @@ Le projet consiste tout simplement à développer un driver son pour Cpcdos et a
 
 Ce code est accessible à tout le monde et chaque personne peut y contribuer.
 
-Lorsque le développement sera terminer, le driver sera intégrer à Cpcdos.
+Lorsque le développement sera terminé, le driver sera intégré à Cpcdos.
 
 
 
